@@ -1,8 +1,8 @@
-package com.number_programs;
+
 
 import java.util.Scanner;
 
-public class Areas {
+public class sumOfAreas {
 
     // Method to calculate area of square
     public static double areaOfSquare(double side) {

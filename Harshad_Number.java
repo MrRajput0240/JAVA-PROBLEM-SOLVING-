@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java util.scanner;
 class Harshad_Number {
     public  String checckHarshad(int num){
         if (num % sum of digits (num)==0)
